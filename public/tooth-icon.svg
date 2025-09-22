@@ -1,0 +1,28 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Tooth Icon -->
+  <path d="M32 4C32 4 8 12 8 32C8 48 16 56 32 56C48 56 56 48 56 32C56 12 32 4 32 4Z" 
+        fill="#0ea5e9" 
+        stroke="#0284c7" 
+        stroke-width="2"/>
+  
+  <!-- Tooth Crown -->
+  <path d="M32 8C32 8 12 14 12 30C12 44 18 50 32 50C46 50 52 44 52 30C52 14 32 8 32 8Z" 
+        fill="#ffffff" 
+        stroke="#e5e7eb" 
+        stroke-width="1"/>
+  
+  <!-- Tooth Root -->
+  <path d="M28 50C28 50 28 58 32 58C36 58 36 50 36 50" 
+        fill="#0ea5e9" 
+        stroke="#0284c7" 
+        stroke-width="1"/>
+  
+  <!-- Tooth Details -->
+  <circle cx="24" cy="24" r="2" fill="#0ea5e9"/>
+  <circle cx="40" cy="24" r="2" fill="#0ea5e9"/>
+  <path d="M28 32C28 32 30 36 32 36C34 36 36 32 36 32" 
+        stroke="#0ea5e9" 
+        stroke-width="2" 
+        fill="none" 
+        stroke-linecap="round"/>
+</svg>
